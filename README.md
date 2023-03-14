@@ -18,6 +18,8 @@ The MIST dataset contains the following numbers of 1024x1024 H&E-IHC patch pairs
 - ER: 4153 training and 1000 testing from 56 WSIs
 - PR: 4139 training and 1000 testing from 56 WSIs
 
+H&E-to-IHC stain translation results on the MIST images can be found in our [paper](https://arxiv.org/abs/2303.06193).
+
 ## Requirements
 Clone this repo then install the dependencies using:
 ```bash
@@ -49,6 +51,6 @@ checkpoints_dir='/path/to/pretrained/'
 ```
 
 ## Acknowledgement
-If you use this code or our MIST dataset for your research, please cite our [paper]().
+If you use this code or our MIST dataset for your research, please cite our [paper](https://arxiv.org/abs/2303.06193).
 
 This repo is built upon [Contrastive Unpaired Translation (CUT)](https://github.com/taesungp/contrastive-unpaired-translation).
