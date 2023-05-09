@@ -42,6 +42,8 @@ name="mist_her2_lambda_linear",
 checkpoints_dir='/path/to/pretrained/'
 ```
 
+The evaluation code that was used to generated the results in the paper is provided in `evaluate.py`.
+
 ## Acknowledgement
 If you use this code or our MIST dataset for your research, please cite our [paper]().
 
