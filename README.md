@@ -12,7 +12,7 @@
 ## Downloading the MIST Dataset
 The full dataset can be accessed from [Google Drive](https://drive.google.com/drive/folders/146V99Zv1LzoHFYlXvSDhKmflIL-joo6p?usp=sharing) and [Baidu Cloud](https://pan.baidu.com/s/1wWlt6tUv4u8bMWU99dj-5g) (code: 6pme).
 
-The MIST dataset contains the following numbers of 1024x1024 H&E-IHC patch pairs:
+The MIST dataset contains the following numbers of 1024x1024 H&E-IHC patch pairs at 0.4661 micron-per-pixel or 20X:
 - HER2: 4642 training and 1000 testing from 64 WSIs
 - Ki67: 4361 training and 1000 testing from 56 WSIs
 - ER: 4153 training and 1000 testing from 56 WSIs
