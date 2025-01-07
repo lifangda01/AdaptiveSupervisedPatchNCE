@@ -1,5 +1,6 @@
 # Adaptive Supervised PatchNCE Loss for Learning H&E-to-IHC Stain Translation with Inconsistent Groundtruth Image Pairs (MICCAI 2023)
 ### Fangda Li, Zhiqiang Hu, Wen Chen, Avinash Kak
+**For inquries, please open an issue or contact me at lifangda02@gmail.com.**
 
 <br>
 <p align="center">
